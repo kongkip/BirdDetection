@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Birds.py2</folder>
+	<filename>images (28).jpeg</filename>
+	<path>/mnt/Data/side_projects/kirui_bird_detection/Birds.py2/images (28).jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>183</width>
+		<height>275</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>target</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>90</xmin>
+			<ymin>12</ymin>
+			<xmax>157</xmax>
+			<ymax>245</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>target</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>30</xmin>
+			<ymin>75</ymin>
+			<xmax>109</xmax>
+			<ymax>266</ymax>
+		</bndbox>
+	</object>
+</annotation>

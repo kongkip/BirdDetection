@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Not birds.py</folder>
+	<filename>little-cute-dog-looking-beautiful-indian-desi-charming-167882689.jpg</filename>
+	<path>/mnt/Data/side_projects/kirui_bird_detection/Not birds.py/little-cute-dog-looking-beautiful-indian-desi-charming-167882689.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>675</width>
+		<height>900</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>nontarget</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>6</xmin>
+			<ymin>76</ymin>
+			<xmax>470</xmax>
+			<ymax>862</ymax>
+		</bndbox>
+	</object>
+</annotation>

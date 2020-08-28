@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Not birds.py</folder>
+	<filename>beautiful-young-dark-brown-indian-street-dog-native-desi-green-grass-fields-outdoors-wild-172274317(1).jpg</filename>
+	<path>/mnt/Data/side_projects/kirui_bird_detection/Not birds.py/beautiful-young-dark-brown-indian-street-dog-native-desi-green-grass-fields-outdoors-wild-172274317(1).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>542</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>non_target</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>441</xmin>
+			<ymin>266</ymin>
+			<xmax>620</xmax>
+			<ymax>461</ymax>
+		</bndbox>
+	</object>
+</annotation>

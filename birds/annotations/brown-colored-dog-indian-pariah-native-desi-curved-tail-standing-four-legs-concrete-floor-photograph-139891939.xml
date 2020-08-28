@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Not birds.py</folder>
+	<filename>brown-colored-dog-indian-pariah-native-desi-curved-tail-standing-four-legs-concrete-floor-photograph-139891939.jpg</filename>
+	<path>/mnt/Data/side_projects/kirui_bird_detection/Not birds.py/brown-colored-dog-indian-pariah-native-desi-curved-tail-standing-four-legs-concrete-floor-photograph-139891939.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>569</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>nontarget</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>170</xmin>
+			<ymin>81</ymin>
+			<xmax>606</xmax>
+			<ymax>529</ymax>
+		</bndbox>
+	</object>
+</annotation>

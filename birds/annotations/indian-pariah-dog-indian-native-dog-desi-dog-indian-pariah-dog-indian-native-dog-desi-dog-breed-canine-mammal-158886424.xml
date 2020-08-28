@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Not birds.py</folder>
+	<filename>indian-pariah-dog-indian-native-dog-desi-dog-indian-pariah-dog-indian-native-dog-desi-dog-breed-canine-mammal-158886424.jpg</filename>
+	<path>/mnt/Data/side_projects/kirui_bird_detection/Not birds.py/indian-pariah-dog-indian-native-dog-desi-dog-indian-pariah-dog-indian-native-dog-desi-dog-breed-canine-mammal-158886424.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>675</width>
+		<height>900</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>nontarget</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>122</xmin>
+			<ymin>376</ymin>
+			<xmax>578</xmax>
+			<ymax>816</ymax>
+		</bndbox>
+	</object>
+</annotation>

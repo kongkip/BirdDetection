@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Not birds.py</folder>
+	<filename>download (5).jpeg</filename>
+	<path>/mnt/Data/side_projects/kirui_bird_detection/Not birds.py/download (5).jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>183</width>
+		<height>275</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>nontarget</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>57</xmin>
+			<ymin>7</ymin>
+			<xmax>164</xmax>
+			<ymax>270</ymax>
+		</bndbox>
+	</object>
+</annotation>

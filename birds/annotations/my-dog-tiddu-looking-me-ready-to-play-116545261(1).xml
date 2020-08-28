@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Not birds.py</folder>
+	<filename>my-dog-tiddu-looking-me-ready-to-play-116545261(1).jpg</filename>
+	<path>/mnt/Data/side_projects/kirui_bird_detection/Not birds.py/my-dog-tiddu-looking-me-ready-to-play-116545261(1).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>533</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>nontarget</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>310</xmin>
+			<ymin>11</ymin>
+			<xmax>646</xmax>
+			<ymax>387</ymax>
+		</bndbox>
+	</object>
+</annotation>
